@@ -1,3 +1,8 @@
+/*
+1. saveAsNewAPIHadoopFile first and a copy at output.uri and save the collection 
+2. saveAsNewAPIHadoopFile make the updates to the collection 
+*/
+
 def main(args: Array[String]) {
         /* Uncomment to turn off Spark logs */
         //Logger.getLogger("org").setLevel(Level.OFF)
