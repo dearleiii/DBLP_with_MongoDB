@@ -1,6 +1,7 @@
 /*
 
 this direct update on the original collection without creating new one
+by setting the input_uri == output_uri
 
 */
 
