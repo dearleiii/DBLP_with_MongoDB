@@ -1,3 +1,8 @@
+/*
+    this file take the mongodb collections from the input.uri
+    save to the new collection: output.uri
+*/
+
 import org.apache.log4j.{Logger, Level}
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.rdd.RDD
